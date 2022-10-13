@@ -5,7 +5,7 @@
 # Portfolio Exercise: Starbucks
 <p align="center">
 
-  <img src="logo.png">
+  <img src="logo.svg.webp">
 
 </p>
 ## Background Information
