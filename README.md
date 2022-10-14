@@ -1,6 +1,3 @@
-# Starbucks-Portfolio
-
-
 
 # Portfolio Exercise: Starbucks
 <p align="center">
