@@ -3,7 +3,7 @@
 
 
 # Portfolio Exercise: Starbucks
-<p align="center">width = 100
+<p align="center">
 
   <img src="logo.svg.webp"> 
 
