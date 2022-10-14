@@ -5,7 +5,7 @@
 # Portfolio Exercise: Starbucks
 <p align="center">
 
-  <img src="logo.svg.webp" width ='200'> 
+  <img src="logo.svg.webp" width ='400'> 
 
 </p>
 
